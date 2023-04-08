@@ -1,0 +1,25 @@
+h2{
+    text-align: center;
+}
+.main_container{
+    background-color: aqua;
+    padding: 50px;
+    text-align: center;
+}
+.input_div{
+    display: inline-block;
+
+}
+.inp{
+    padding: 5px;
+    margin: 10px;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+
+
+}
+label{
+    font-size: 23px;
+    font-weight: bold;
+}
